@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b6e2da1-3bce-4276-aa08-e516dafe0435": {
+      "ProjectGuid": "5b6e2da1-3bce-4276-aa08-e516dafe0435",
+      "DisplayName": "tetriss",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
